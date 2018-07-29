@@ -1,0 +1,3 @@
+This is a sample text.
+
+// Git checkout -b branchName for creating a branch
